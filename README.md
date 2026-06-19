@@ -255,6 +255,4 @@ GitHub: https://github.com/Subhra0309
 Email: [subhrajitjana2018@gmail.com](mailto:subhrajitjana2018@gmail.com)
 
 ```
-
-### Academic Project – 2026
 ```
