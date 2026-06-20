@@ -101,42 +101,6 @@ EfficientNet-V2-S achieved the highest test accuracy of **94.06%**.
 
 ---
 
-## Visual Results
-
-### Original vs Resized MRI Images
-
-See:
-
-```text
-screenshots/resized_images.png
-```
-
-### CNN Confusion Matrix
-
-```text
-screenshots/cnn_confusion_matrix.png
-```
-
-### EfficientNet-B3 Confusion Matrix
-
-```text
-screenshots/efficientnet_b3_cm.png
-```
-
-### EfficientNet-V2-S Confusion Matrix
-
-```text
-screenshots/efficientnet_v2_cm.png
-```
-
-### Model Comparison
-
-```text
-screenshots/model_comparison.png
-```
-
----
-
 ## Technologies Used
 
 * Python
