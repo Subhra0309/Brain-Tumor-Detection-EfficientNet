@@ -137,7 +137,8 @@ Brain-Tumor-Detection-EfficientNet/
 │
 ├── requirements.txt
 ├── .gitignore
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
